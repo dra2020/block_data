@@ -1,13 +1,13 @@
 # block_data
-This repository contains Block-level demographic and election data used in Dave's Redistricting App, as CSV.
-Files are organized by geography (e.g. 2020_Geography (Shapes)) and then by state.
+This repository contains Block-level demographic and election data used in Dave's Redistricting App, as CSV files.
+The files are organized by geography (e.g. 2020_Geography (Shapes)) and then by state.
 
-**YOU ARE RESPONSIBLE FOR READING AND UNDERSTANDING THE LICENSES FOR THIS DATA, INCLUDING INDIVIDUAL DATASET LICENSES IF ANY.**
+YOU ARE RESPONSIBLE FOR READING AND UNDERSTANDING THE LICENSES FOR THIS DATA, INCLUDING INDIVIDUAL DATASET LICENSES IF ANY.
 
-**YOU AGREE NOT TO SELL ANY OF THIS DATA UNDER ANY CIRCUMSTANCES.**
+YOU AGREE NOT TO SELL ANY OF THIS DATA UNDER ANY CIRCUMSTANCES.
 
 ## 2020 Geography
-Within each state folder are two MD files, one with demographic data and one with election data. Each MD file contains a link to a zip archive to download. Each archive contains a CSV with the data, a license file and a readme with other details. For all states, a link to the Block shapes (on the Census Bureau's site) is provided in the readme.
+Within each state folder are two Markdown (.md) files, one with demographic data and one with election data. Each markdown file contains a link to a zip archive to download. Each archive contains a CSV with the data, a LICENSE file and a README with other details. For all states, a link to the Block shapes (on the Census Bureau's site) is provided in the README.
 
 The census files contain 2010 and 2020 demographic data from the decennial census, both total population and voting age population, and 2018, 2019 and 2020 American Community Survey (5-year) population estimates and citizen voting age population (CVAP) estimates. All of the data is orginally from the U.S. Census Bureau.
 
