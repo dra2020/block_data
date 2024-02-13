@@ -19,7 +19,7 @@ We have election data through 2021 for each state and 2022 data for some states.
 The Census Bureau provides CVAP estimates with the 5-year ACS data, but those estimates don't have the calculations for the race combinations (e.g. "Black Alone or in combination with other races"). The CVAP data only includes these two-race combinations: "Native and White", "Asian and White", "Black and White", "Native and Black", plus "Remainder of Two or More Races". We estimate the combinations by adding those two-race combinations, but leaving out the remainder, which tends to underestimate the race combinations.
 
 ## Disaggregation
-Data from the 2020 decennial census is presented by the Census Bureau at the censu block level, therefore that data requires not disaggreation.
+Data from the 2020 decennial census is presented by the Census Bureau at the census block level, and therefore does not need disaggregation.
 All other datasets were disaggregated to 2020 census blocks by Dave's Redistricting using the method by Voting and Election Science Team (Amos, Brian, 2021, "2020 Census Block Crosswalk Data", https://doi.org/10.7910/DVN/T9VMJO, Harvard Dataverse, V2), except 2019 ACS data was disaggregated by VEST and 2020 CVAP data was disaggregated by Redistricting Data Hub (https://redistrictingdatahub.org/data/about-our-data/american-community-survey/#cvap).
 
 Except for the 2020 CVAP data, VEST's and our disaggregation allocated remainders using the Hare Quota (https://en.wikipedia.org/wiki/Largest_remainder_method), with 2020 Total Population as the factor determining the weight of each block within the precinct or block group.
