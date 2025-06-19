@@ -1,4 +1,4 @@
-Make Demographic_Data_Block_NE.v01 (2024-02-12)
+Make Demographic_Data_Block_NE.v06 (2025-06-18)
 
 Row count: 119103
 Totals from Block Data (BData) and CSV Data (CData)
@@ -38,6 +38,13 @@ T_20_ACS_Black;	117761;	117761;	0
 T_20_ACS_Asian;	62516;	62516;	0
 T_20_ACS_Native;	33736;	33736;	0
 T_20_ACS_Pacific;	3735;	3735;	0
+T_22_ACS_Total;	1958939;	1958939;	0
+T_22_ACS_White;	1509776;	1509776;	0
+T_22_ACS_Hispanic;	230769;	230769;	0
+T_22_ACS_Black;	123102;	123102;	0
+T_22_ACS_Asian;	66151;	66151;	0
+T_22_ACS_Native;	40202;	40202;	0
+T_22_ACS_Pacific;	4274;	4274;	0
 V_10_VAP_Total;	1366889;	1366889;	0
 V_10_VAP_White;	1166725;	1166725;	0
 V_10_VAP_Hispanic;	98221;	98221;	0
@@ -82,3 +89,11 @@ V_20_CVAP_Black;	63131;	63131;	0
 V_20_CVAP_Asian;	23771;	23771;	0
 V_20_CVAP_Native;	16717;	16717;	0
 V_20_CVAP_Pacific;	691;	691;	0
+V_22_CVAP_Total;	1405385;	1405385;	0
+V_22_CVAP_White;	1193250;	1193250;	0
+V_22_CVAP_Hispanic;	97496;	97496;	0
+V_22_CVAP_Black;	66421;	66421;	0
+V_22_CVAP_Asian;	27822;	27822;	0
+V_22_CVAP_Native;	17545;	17545;	0
+V_22_CVAP_Pacific;	758;	758;	0
+V_22_CVAP_RemTwoOrMore;	3359;	3359;	0
